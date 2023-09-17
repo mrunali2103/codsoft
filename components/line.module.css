@@ -1,0 +1,9 @@
+.lineDiv {
+  border-top: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 1009px;
+  height: 1px;
+  transform: rotate(-90deg);
+  transform-origin: 0 0;
+  display: none;
+}

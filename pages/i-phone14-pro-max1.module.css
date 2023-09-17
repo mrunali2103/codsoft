@@ -1,0 +1,19 @@
+.undrawNavigatorA4791Icon {
+  position: absolute;
+  top: 740.79px;
+  left: 57.46px;
+  width: 886.35px;
+  height: 491.63px;
+  overflow: hidden;
+}
+.iphone14ProMax1 {
+  position: relative;
+  border-radius: var(--br-47xl);
+  background-color: var(--color-white);
+  width: 100%;
+  height: 430px;
+  overflow: hidden;
+  transform: rotate(89.88deg);
+  transform-origin: 0 0;
+  display: none;
+}

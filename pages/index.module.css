@@ -1,0 +1,756 @@
+.div {
+  position: absolute;
+  top: 0;
+  left: 0.22px;
+  display: inline-block;
+  width: 32px;
+  height: 20px;
+  transform: rotate(0.63deg);
+  transform-origin: 0 0;
+}
+.groupChild,
+.groupChild1,
+.groupInner,
+.groupItem,
+.rectangleDiv {
+  position: absolute;
+  top: 0;
+  left: 12.03px;
+  background-color: var(--color-gray-100);
+  width: 2px;
+  height: 12px;
+  transform: rotate(0.13deg);
+  transform-origin: 0 0;
+}
+.groupChild1,
+.groupInner,
+.groupItem,
+.rectangleDiv {
+  top: 1.99px;
+  left: 9.03px;
+  height: 10px;
+}
+.groupChild1,
+.groupInner,
+.rectangleDiv {
+  top: 4.99px;
+  left: 6.02px;
+  height: 7px;
+}
+.groupChild1,
+.rectangleDiv {
+  top: 6.98px;
+  left: 3.02px;
+  height: 5px;
+}
+.groupChild1 {
+  top: 8.97px;
+  left: 0.01px;
+  height: 3px;
+}
+.groupChild2,
+.rectangleParent {
+  position: absolute;
+  top: 5.03px;
+  left: 314.33px;
+  width: 14.03px;
+  height: 12.01px;
+  transform: rotate(-0.02deg);
+  transform-origin: 0 0;
+}
+.groupChild2 {
+  top: 0;
+  left: 0.03px;
+  border-radius: var(--br-10xs);
+  border: 1px solid var(--color-darkseagreen);
+  box-sizing: border-box;
+  width: 30px;
+  height: 13px;
+  transform: rotate(0.02deg);
+}
+.groupChild3 {
+  top: 2px;
+  left: 2.03px;
+  border-radius: var(--br-11xs);
+  background-color: var(--color-black);
+  width: 26px;
+  height: 9px;
+  transform: rotate(0.02deg);
+}
+.groupChild3,
+.groupChild4,
+.rectangleGroup {
+  position: absolute;
+  transform-origin: 0 0;
+}
+.groupChild4 {
+  top: 3.01px;
+  left: 31.03px;
+  border-radius: var(--br-11xs);
+  background-color: var(--color-tan);
+  width: 2px;
+  height: 7px;
+  transform: rotate(0.02deg);
+}
+.rectangleGroup {
+  top: 4.1px;
+  left: 336.33px;
+  width: 33.03px;
+  height: 13.08px;
+  transform: rotate(-0.13deg);
+}
+.parent {
+  position: absolute;
+  top: 39px;
+  left: 33px;
+  width: 369.39px;
+  height: 20.35px;
+  font-size: var(--font-size-xs);
+}
+.iphone14ProMax2Child {
+  position: absolute;
+  top: 44px;
+  left: 3.96px;
+  width: 397.04px;
+  height: 362px;
+}
+.alreadyHaveAn {
+  font-size: var(--font-size-mini);
+}
+.alreadyHaveAn,
+.span {
+  color: var(--color-gray-200);
+}
+.logIn {
+  text-decoration: underline;
+}
+.alreadyHaveAnContainer {
+  position: absolute;
+  top: 677px;
+  left: calc(50% - 185px);
+  font-weight: 600;
+  font-family: var(--font-poppins);
+  display: inline-block;
+  width: 370px;
+  height: 42px;
+  font-size: var(--font-size-xl);
+  color: var(--color-gray-200);
+}
+.groupChild5 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-sm);
+  background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), #00bfa6;
+  width: 330px;
+  height: 38px;
+}
+.signUpWith {
+  position: absolute;
+  top: 11px;
+  left: calc(50% - 130px);
+  font-weight: 600;
+  display: inline-block;
+  width: 250px;
+  height: 16.63px;
+}
+.groupChild6,
+.rectangleContainer {
+  position: absolute;
+  width: 330px;
+  height: 38px;
+}
+.rectangleContainer {
+  top: 766px;
+  left: 55px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  color: var(--color-white);
+}
+.groupChild6 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-sm);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-lightseagreen);
+  box-sizing: border-box;
+}
+.icons8Google481,
+.signUpWith1 {
+  position: absolute;
+  top: 7px;
+  height: 24px;
+}
+.signUpWith1 {
+  left: calc(50% - 97px);
+  font-weight: 600;
+  display: inline-block;
+  width: 180px;
+}
+.icons8Google481 {
+  left: calc(50% - 108px);
+  width: 19px;
+  object-fit: cover;
+}
+.groupDiv,
+.iphone14ProMax2Inner {
+  position: absolute;
+  width: 330px;
+  height: 38px;
+}
+.groupDiv {
+  top: 0;
+  left: 0;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.iphone14ProMax2Inner {
+  top: 824px;
+  left: 55px;
+  color: var(--color-lightseagreen);
+}
+.groupIcon {
+  position: absolute;
+  top: 41px;
+  left: 10px;
+  width: 107px;
+  height: 142px;
+  opacity: 0.9;
+}
+.span1 {
+  font-size: var(--font-size-3xl);
+}
+.findYourTravelContainer,
+.sayYesTo {
+  position: absolute;
+  display: inline-block;
+}
+.findYourTravelContainer {
+  top: 0;
+  left: 31px;
+  width: 320px;
+  height: 58px;
+}
+.sayYesTo {
+  top: 34px;
+  left: calc(50% - 185px);
+  font-size: var(--font-size-3xl);
+  background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), #000;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  width: 370px;
+  height: 42px;
+  opacity: 0.6;
+}
+.findYourTravelBuddyParent,
+.groupParent1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 370px;
+  height: 76px;
+}
+.groupParent1 {
+  top: 494px;
+  left: 24px;
+  height: 183px;
+  font-size: var(--font-size-7xl);
+  color: #4d4d4d;
+  font-family: var(--font-poppins);
+}
+.group,
+.iphone14ProMax2,
+.iphone14ProMax2Wrapper {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 430px;
+  height: 932px;
+}
+.iphone14ProMax2 {
+  border-radius: var(--br-47xl);
+  background-color: var(--color-white);
+  overflow: hidden;
+}
+.group,
+.iphone14ProMax2Wrapper {
+  font-family: var(--font-inter);
+}
+.group {
+  top: 39px;
+  left: 33px;
+  width: 369.39px;
+  height: 20.35px;
+  font-size: var(--font-size-xs);
+}
+.undrawTouristMapRe293e2Icon {
+  position: absolute;
+  top: 0;
+  left: 82px;
+  width: 366px;
+  height: 726px;
+  overflow: hidden;
+  opacity: 0.08;
+}
+.andPrivacyPolicyContainer,
+.iAgreeToContainer {
+  position: absolute;
+  top: 479px;
+  left: calc(50% - 169px);
+  display: inline-block;
+  width: 370px;
+  height: 42px;
+}
+.andPrivacyPolicyContainer {
+  top: 500px;
+  left: calc(50% - 224px);
+}
+.iphone14ProMax3Inner,
+.undrawTouristMapRe293e2Parent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 448px;
+  height: 726px;
+}
+.iphone14ProMax3Inner {
+  top: 110px;
+  left: -48px;
+  font-size: var(--font-size-mini);
+  color: var(--color-gray-200);
+}
+.rectangleParent3 {
+  position: absolute;
+  top: 766px;
+  left: 55px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 330px;
+  height: 38px;
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}
+.groupChild16,
+.rectangleWrapper {
+  position: absolute;
+  width: 33px;
+  height: 36px;
+}
+.groupChild16 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-gainsboro);
+}
+.rectangleWrapper {
+  top: 1px;
+  left: 2px;
+}
+.backSvgrepoCom1Icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 35px;
+  height: 37px;
+  overflow: hidden;
+}
+.signUp {
+  position: absolute;
+  top: 9px;
+  left: 22px;
+  font-weight: 300;
+  display: inline-block;
+  width: 96px;
+  height: 22px;
+}
+.groupParent2 {
+  position: absolute;
+  top: 99px;
+  left: 30px;
+  width: 118px;
+  height: 37px;
+}
+.createAccountWith {
+  position: absolute;
+  top: 178px;
+  left: 78px;
+  font-size: 24px;
+  display: inline-block;
+  width: 248px;
+  height: 58px;
+}
+.groupChild17 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-7xs);
+  background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), #00bfa6;
+  width: 20px;
+  height: 20px;
+}
+.tickCircleSvgrepoCom1Icon {
+  position: absolute;
+  top: 2px;
+  left: -0.67px;
+  width: 21.33px;
+  height: 21.75px;
+  overflow: hidden;
+}
+.rectangleParent4,
+.yourEmail {
+  position: absolute;
+  top: 593px;
+  left: 25px;
+  width: 20px;
+  height: 20px;
+}
+.yourEmail {
+  top: 0;
+  left: 0;
+  display: inline-block;
+  width: 170px;
+  height: 26px;
+}
+.groupChild18,
+.ramgmailcom,
+.rectangleFrame {
+  position: absolute;
+  top: 0;
+  width: 333.61px;
+  height: 38px;
+}
+.groupChild18 {
+  left: 0;
+  border-radius: var(--br-sm);
+  background: linear-gradient(#b3eae3, #b3eae3), #00bfa6;
+}
+.ramgmailcom,
+.rectangleFrame {
+  left: 36.39px;
+}
+.ramgmailcom {
+  top: 12px;
+  left: 0;
+  display: inline-block;
+  width: 190.05px;
+  height: 14px;
+}
+.groupParent4 {
+  position: absolute;
+  top: 26px;
+  left: 13px;
+  width: 370px;
+  height: 38px;
+  font-size: var(--font-size-xs);
+  font-family: var(--font-inter);
+}
+.yourEmailParent {
+  position: absolute;
+  top: 0;
+  left: 5px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 383px;
+  height: 64px;
+}
+.groupWrapper,
+.passwordParent,
+.rectangleWrapper1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 333.61px;
+  height: 38px;
+}
+.groupWrapper,
+.passwordParent {
+  top: 26px;
+  left: 54px;
+}
+.passwordParent {
+  top: 0;
+  left: 0;
+  width: 387.61px;
+  height: 64px;
+}
+.ellipseIcon,
+.groupChild20,
+.groupChild21 {
+  position: absolute;
+  top: 40px;
+  left: 68px;
+  width: 10px;
+  height: 10px;
+}
+.groupChild20,
+.groupChild21 {
+  left: 80px;
+}
+.groupChild21 {
+  left: 92px;
+}
+.groupChild22,
+.groupChild23,
+.groupChild24,
+.groupChild25 {
+  position: absolute;
+  top: 40px;
+  left: 104px;
+  width: 10px;
+  height: 10px;
+}
+.groupChild23,
+.groupChild24,
+.groupChild25 {
+  left: 116px;
+}
+.groupChild24,
+.groupChild25 {
+  left: 128px;
+}
+.groupChild25 {
+  left: 140px;
+}
+.eyeClosedSvgrepoCom1Icon {
+  position: absolute;
+  top: 37px;
+  left: 354px;
+  width: 20px;
+  height: 16px;
+  overflow: hidden;
+}
+.groupParent5 {
+  position: absolute;
+  top: 88px;
+  left: 0;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 387.61px;
+  height: 64px;
+}
+.alreadyHaveAnContainer1 {
+  position: absolute;
+  top: 422px;
+  left: calc(50% - 158px);
+  font-size: var(--font-size-base);
+  display: inline-block;
+  width: 370px;
+  height: 42px;
+  color: var(--color-gray-200);
+}
+.groupParent3 {
+  position: absolute;
+  top: 393px;
+  left: -26px;
+  width: 424px;
+  height: 464px;
+  font-size: var(--font-size-smi);
+}
+.iphone14ProMax3Wrapper {
+  position: absolute;
+  top: 0;
+  left: 1074px;
+  width: 430px;
+  height: 932px;
+}
+.iAgreeToContainer1 {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 116.99px);
+  display: inline-block;
+  width: 272.49px;
+  height: 42.67px;
+}
+.andPrivacyPolicyContainer1 {
+  position: absolute;
+  top: 22px;
+  left: calc(50% - 155.5px);
+  display: inline-block;
+  width: 240px;
+}
+.iAgreeToTheTermsConditioParent,
+.iphone14ProMax3Child {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 155.5px);
+  width: 311px;
+  height: 45px;
+}
+.iphone14ProMax3Child {
+  top: 563px;
+  left: calc(50% - 203px);
+  font-size: var(--font-size-mini);
+  color: var(--color-gray-200);
+}
+.undrawTouristMapRe293e1Icon {
+  position: absolute;
+  top: 0;
+  left: 46px;
+  width: 370px;
+  height: 773px;
+  overflow: hidden;
+  opacity: 0.08;
+}
+.yourEmail2 {
+  position: absolute;
+  top: 231px;
+  left: 0;
+  display: inline-block;
+  width: 170px;
+  height: 26px;
+}
+.ramgmailcom1,
+.rectangleWrapper3 {
+  position: absolute;
+  top: 0;
+  left: 33px;
+  width: 333.61px;
+  height: 38px;
+}
+.ramgmailcom1 {
+  top: 5px;
+  left: 0;
+  display: inline-block;
+  width: 190.05px;
+  height: 14px;
+}
+.groupParent8 {
+  position: absolute;
+  top: 264px;
+  left: 13px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 366.61px;
+  height: 38px;
+  font-size: var(--font-size-xs);
+  font-family: var(--font-inter);
+}
+.groupWrapper1,
+.undrawTouristMapRe293e1Parent {
+  position: absolute;
+  top: 0;
+  left: 5px;
+  width: 416px;
+  height: 773px;
+}
+.groupWrapper1 {
+  top: 26px;
+  left: 51px;
+  width: 333.61px;
+  height: 38px;
+}
+.groupParent7,
+.groupParent9,
+.passwordGroup {
+  position: absolute;
+  left: 0;
+  width: 384.61px;
+  height: 64px;
+}
+.passwordGroup {
+  top: 0;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.groupParent7,
+.groupParent9 {
+  top: 319px;
+}
+.groupParent7 {
+  top: 100px;
+  left: -21px;
+  width: 421px;
+  height: 773px;
+  font-size: var(--font-size-smi);
+}
+.welcomeBack1 {
+  font-size: var(--font-size-xl);
+  font-weight: 600;
+  font-family: var(--font-poppins);
+}
+.span3 {
+  font-weight: 300;
+}
+.welcomeBack {
+  margin: 0;
+}
+.logIn3 {
+  text-decoration: underline;
+  color: var(--color-gray-200);
+}
+.welcomeBackLogContainer {
+  position: absolute;
+  top: 185px;
+  left: 47px;
+  display: inline-block;
+  width: 347px;
+  height: 63px;
+}
+.groupChild45 {
+  border-radius: var(--br-7xs);
+  background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), #00bfa6;
+}
+.groupChild45,
+.rectangleWrapper5,
+.vectorIcon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 20px;
+  height: 19px;
+}
+.vectorIcon {
+  height: 69.44%;
+  width: 66.67%;
+  top: 15.79%;
+  right: 18.33%;
+  bottom: 14.77%;
+  left: 15%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.groupParent10 {
+  position: absolute;
+  top: 566px;
+  left: 31px;
+  width: 20px;
+  height: 19px;
+}
+.dontHaveAnContainer,
+.forgetPassword {
+  position: absolute;
+  display: inline-block;
+}
+.forgetPassword {
+  top: 489px;
+  left: 219px;
+  font-size: var(--font-size-xs);
+  width: 152px;
+  height: 20px;
+}
+.dontHaveAnContainer {
+  top: 811px;
+  left: 79px;
+  width: 265px;
+  height: 30px;
+}
+.groupContainer,
+.groupFrame,
+.iphone14ProMax3Container {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 430px;
+  height: 932px;
+}
+.groupContainer,
+.groupFrame {
+  left: 537px;
+}
+.groupContainer {
+  left: 0;
+  width: 1504px;
+}
+.groupParent {
+  position: relative;
+  width: 100%;
+  height: 932px;
+  text-align: center;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+  font-family: var(--font-poppins);
+}
